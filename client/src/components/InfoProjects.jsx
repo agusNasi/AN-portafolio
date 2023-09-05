@@ -40,7 +40,7 @@ export default function InfoProjects() {
           }
         />
         <Projects
-          linkPage={'https://github.com/agusNasi/AN-portafolio'}
+          linkPage={'https://agustinnasi.vercel.app/'}
           src={'./img/portafolio-web.PNG'}
           title={'AN portafolio'}
           linkCode={'https://github.com/agusNasi/AN-portafolio'}
