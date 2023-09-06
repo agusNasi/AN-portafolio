@@ -617,15 +617,21 @@ html {
   width: 100%;
 }
 
+.container_btn-enviar {
+  display: flex;
+  justify-content: center;
+}
+
 #contacto .btn-enviar {
+  background-color: white;
   font-size: 18px;
   font-weight: bold;
-  display: block;
-  margin: auto;
-  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid #919191;
   transition: 0.5s;
-  padding: 10px 15px;
-  background-color: #fff;
 }
 
 #contacto .btn-enviar:hover {

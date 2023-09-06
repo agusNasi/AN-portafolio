@@ -76,7 +76,9 @@ export default function FormContact() {
               onChange={(ev) => setMessage(ev.target.value)}
             ></textarea>
           </div>
-          <input type="submit" className="btn-enviar" value="Enviar mensaje" />
+          <div className="container_btn-enviar">
+            <button className="btn-enviar">Enviar mensaje</button>
+          </div>
         </form>
       </div>
     </>
