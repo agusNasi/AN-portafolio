@@ -194,7 +194,7 @@ function App() {
             siento tranquilamente confiado, naturalmente curioso y trabajo
             constantemente para mejorar mis habilidades.
           </p>
-          <a href="./docs/CV_Agustin-Nasi.pdf" target="_blank" rel="noreferrer">
+          <a href="./docs/CV_Agustin_Nasi.pdf" target="_blank" rel="noreferrer">
             Descargar CV.
           </a>
         </div>
